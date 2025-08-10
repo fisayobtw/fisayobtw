@@ -7,7 +7,7 @@
 ### Fun Facts:
   - I'd prefer breakfast for dinner.
   - Bleach is my favorite anime, but Fullmetal Alchemist Brotherhood is the greatest anime of all time.
-  - I played collegiate soccer
+  - I played collegiate soccer.
 <!--
 **fisayobtw/fisayobtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
