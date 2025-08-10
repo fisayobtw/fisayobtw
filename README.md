@@ -5,10 +5,12 @@
 
 ### Career Goals: To have the knowledge of a hacker and the capabilities to defend against many.
 
-### Fun Facts:
-  - I'd prefer breakfast for dinner.
-  - Bleach is my favorite anime, but Fullmetal Alchemist Brotherhood is the greatest anime of all time.
-  - I played collegiate soccer.
+### 2025 Goal Checklist:
+  - [x] Raise GPA to a 3.0+
+  - [x] Gain Internship Experience
+  - [ ] Pass the Comptia Security+ Exam
+  - [ ] Gain Cybersecurity Internship Experience
+  - [ ] Attend AfroTech'25
 <!--
 **fisayobtw/fisayobtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
