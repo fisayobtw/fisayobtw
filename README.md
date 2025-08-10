@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## I'm Fisayo, a future cybersecurity expert.
+## "Knowledge is Power" ~ Sir Francis Bacon
 
 ### Career Goals: To have the knowledge of a hacker and the capabilities to defend against many.
 
