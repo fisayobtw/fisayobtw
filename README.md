@@ -8,7 +8,7 @@
 ### 2025 Goal Checklist‼️:
   - [x] Raise GPA to a 3.0+
   - [x] Gain Internship Experience
-  - [ ] Pass the Comptia Security+ Exam
+  - [x] Pass the Comptia Security+ Exam
   - [ ] Gain Cybersecurity Internship Experience
   - [ ] Attend AfroTech'25
 <!--
